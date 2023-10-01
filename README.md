@@ -1,11 +1,13 @@
-<h1 align="center">🤔 React Quiz made with React 🤔</h1> 
+<h1 align="center">🌐 The World Wise 🌐 </h1> 
 
 <div align="center">
 <img src="https://img.shields.io/npm/v/npm.svg?logo=npm"/>
 <img src="https://img.shields.io/badge/react-v18.2.0-blue?logo=react"/>
+<img src="https://img.shields.io/badge/reactrouterdom-v6.14.2-red?logo=reactrouter"/>
+<img src="https://img.shields.io/badge/leaflet-v1.9.4-green?logo=leaflet"/>
 </div>  
 
-<p align="center">React Quiz is a simple quiz about React it, with 15 different questions to test your React knowledge about it. When u finish the quiz u get your points and set a personal record.</p>
+<p align="center">The World Wise is a web app, that helps you to not lose track of countries that u visited thru out of your journey across the world.</p>
 
 <div align="center">
   
@@ -15,7 +17,9 @@
 
 ## Technologies Used
 
-  - Only [React](https://react.dev/) 
+  - [React](https://react.dev/)
+  - [React Router Dom](https://reactrouter.com/en/main)
+  - [Leaflet](https://leafletjs.com/) - React Leaflet
 
 ## Screenshot
 
@@ -27,10 +31,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com/) and [
 
 ```
 # Clone this repository 
-$ git clone https://github.com/AleksandarSarbajic/react-quiz
+$ git clone [https://github.com/AleksandarSarbajic/react-quiz](https://github.com/AleksandarSarbajic/WorldWise)
 
 # Go into the repository
-$ cd react-quiz
+$ cd WorldWise
 
 # Install dependencies
 $ npm install
@@ -46,7 +50,7 @@ $ npm run start
 
 - [Tasty Trail](https://github.com/AleksandarSarbajic/the-wild-oasis) - Food ordering app
 - [The Wild Oasis](https://github.com/AleksandarSarbajic/Tasty-Trail) - Hotel service app
-- [World Wise](https://github.com/AleksandarSarbajic/WorldWise) - Countries visited tracking app
+- [React Quiz](https://github.com/AleksandarSarbajic/react-quiz) - React quiz app
 
 ## License
 
