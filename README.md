@@ -13,6 +13,8 @@
   
 <a href="#quicstart" >Quickstart</a> • <a href="#technologies-used" align="center">Technologies Used</a> •  <a href="#screenshot" align="center"> Screenshot </a> • <a href="#you-may-also-like" align="center"> You may also like  </a> •  <a href="#license" align="center"> License  </a> 
 
+•<a href="https://world-wise-aleksandar.netlify.app/" align="Center">Live Server</a>
+
 </div>
 
 ## Technologies Used
@@ -31,7 +33,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com/) and [
 
 ```
 # Clone this repository 
-$ git clone [https://github.com/AleksandarSarbajic/react-quiz](https://github.com/AleksandarSarbajic/WorldWise)
+$ git clone https://github.com/AleksandarSarbajic/WorldWise
 
 # Go into the repository
 $ cd WorldWise
@@ -45,6 +47,11 @@ $ npm run start
 
 > [!NOTE]  
 > If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
+
+
+## How It Works
+
+
 
 ## You may also like...
 
