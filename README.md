@@ -25,7 +25,14 @@
 
 ## Screenshot
 
-![Screenshot 2023-09-30 165057](https://github.com/AleksandarSarbajic/react-quiz/assets/114814838/1ee5c5a4-14a4-4630-b0ae-ae3597da1896)
+![Landing page](https://github.com/AleksandarSarbajic/WorldWise/assets/114814838/88980c2d-4c23-407d-81a6-33f4bc2e4bbd)
+
+![Pricing page](https://github.com/AleksandarSarbajic/WorldWise/assets/114814838/bca1c442-d4ee-470d-91dc-0ff5823a83a8)
+
+![image](https://github.com/AleksandarSarbajic/WorldWise/assets/114814838/a75b525c-d550-442a-a7eb-21c4c475119c)
+
+![image](https://github.com/AleksandarSarbajic/WorldWise/assets/114814838/2b3fbe0b-ec61-4c39-9c00-87a84d788557)
+
 
 ## Quicstart
 
@@ -51,6 +58,29 @@ $ npm run start
 
 ## How It Works
 
+At first it's an simple landing page with navigation to pricing product and login page that goes to app it self
+
+### App
+
+The app shows you pins on the map that u visited around your traveling
+
+![App](https://github.com/AleksandarSarbajic/WorldWise/assets/114814838/eab18554-6c05-4b60-be50-f59b224c4371)
+
+When u click on the map you get centered to that location and got the window open with city name, date and description to add.
+
+![Opening city modal](https://github.com/AleksandarSarbajic/WorldWise/assets/114814838/0599fa6b-02a3-4791-98f3-1477de5fea57)
+
+When you click on add that item gets added to a list of all cities visited, and after that u can delete an item if you want to
+
+![Adding city to the list](https://github.com/AleksandarSarbajic/WorldWise/assets/114814838/d5b44194-d913-4d28-8d71-4a6e194febe4)
+
+You can click on certain city to open info about it and link to the Wikipedia page about that city
+
+![About city](https://github.com/AleksandarSarbajic/WorldWise/assets/114814838/c12b65fa-342f-4b1d-afa2-55fce97542f2)
+
+You can also see all visited countries
+
+![All countries visited](https://github.com/AleksandarSarbajic/WorldWise/assets/114814838/f4b31c18-fe29-491a-b7cb-88872472c710)
 
 
 ## You may also like...
