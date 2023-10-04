@@ -62,7 +62,7 @@ At first it's an simple landing page with navigation to pricing product and logi
 
 ### App
 
-The app shows you pins on the map that u visited around your traveling
+The app shows you pins on the map that u visited around your traveling, list of places that u visited and the button to center to place where you at
 
 ![App](https://github.com/AleksandarSarbajic/WorldWise/assets/114814838/eab18554-6c05-4b60-be50-f59b224c4371)
 
